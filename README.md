@@ -15,3 +15,4 @@
 - 🌱 Estudando C#, DevOps e JavaScripth e Java
 - 😄 Pronouns: ele/dele
 
+![Snake animation](pewiebe)
