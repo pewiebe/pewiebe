@@ -1,7 +1,8 @@
 ### Olá! Sou o Pewiebe mas conhecido como Samuel
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pewiebe&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pewiebe&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pewiebe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pewiebe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
