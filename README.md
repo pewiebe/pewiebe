@@ -13,7 +13,7 @@
   </div>
 
 - 🔭 Estou começando a entrar no mundo Back-End
-- 🌱 Estudando C#, DevOps e JavaScripth e Java
+- 🌱 Estudando C#.dotnet, DevOps e JavaScripth e Java
 - 😄 Pronouns: ele/dele
 
-![Snake animation](pewiebe)
+
