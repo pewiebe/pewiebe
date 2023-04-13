@@ -17,3 +17,4 @@
 - 😄 Pronouns: ele/dele
 
 
+![snake gif](https://github.com/pewiebe/pewiebe/blob/output/github-contribution-grid-snake.svg)
