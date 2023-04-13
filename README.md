@@ -18,3 +18,4 @@
 
 
 
+![Snake animation](https://github.com/{{pewiebe}}/{{pewiebe}}/blob/output/github-contribution-grid-snake.svg)
