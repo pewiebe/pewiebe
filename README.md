@@ -13,6 +13,6 @@
   </div>
 
 - 🔭 Estou começando a entrar no mundo Back-End
-- 🌱 Estudando C#.dotnet, DevOps e JavaScripth e Java
+- 🌱 Estudando C#, DevOps e JavasCript e Java
 - 😄 Pronouns: ele/dele
 
