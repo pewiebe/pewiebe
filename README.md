@@ -24,3 +24,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pewiebe&" alt="pewiebe" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pewiebe&show_icons=true&locale=en&layout=compact" alt="pewiebe" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pewiebe" alt="pewiebe" /></a> </p>
+
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/pewiebe/pewiebe/blob/output/github-contribution-grid-snake.gif)
