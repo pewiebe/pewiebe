@@ -28,4 +28,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pewiebe/pewiebe/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/pewiebe/snk)_
